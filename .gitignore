@@ -1,0 +1,8 @@
+node_modules/
+.serena/
+.taste-skill/
+design-concepts/
+*.zip
+*.log
+qa/
+.DS_Store
