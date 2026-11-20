@@ -18,3 +18,5 @@
 
 /* Frame the emblem within the supplied square logo image. */
 .home-logo{aspect-ratio:1;overflow:hidden}.home-logo img{width:200%;max-width:none;transform:translate(-25%,-13%)}
+
+.home-logo img{width:100%;max-width:100%;transform:none}
